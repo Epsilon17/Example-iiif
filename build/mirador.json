@@ -1,6 +1,6 @@
 {
 	"manifests": {
-		"https://gist.githubusercontent.com/Epsilon17/e160732a84557f58ed79510ade8f3a1a/raw/6dbb260f014b45c8c224767fc5820d532586a6f3/firstManifest.json": {
+		"https://iiif.harvardartmuseums.org/manifests/object/299843": {
 			"provider": "Harvard University"
 		},
 		"https://media.nga.gov/public/manifests/nga_highlights.json": {
